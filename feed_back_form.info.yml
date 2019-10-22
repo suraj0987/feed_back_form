@@ -1,0 +1,6 @@
+name: Feedback Module
+description: Form to collect Feedback
+type: module
+core: 8.x
+version: 1.0
+package: AAA
